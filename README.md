@@ -4,6 +4,8 @@
 
 In this class we will be using the git version control system as well as the GitHub remote repository service. Git is a version control system (VCS) which allows for the revision and coordination of code between different developers and between different features. GitHub allows for these features not only locally but over the internet, and adds features such as code reviews and issue tracking. GitHub has become the de-facto standard for hosting and developing open source projects. Whatever programming language you use in the future, you will almost certainly use a VCS. In this lab you will learn the basics of using git and how to save your local work to GitHub.
 
+> Note: any text surrouned by angle brackets `< >` represent a portion of text that is specific to you and needs to be replaced. Make sure you replace that portion with what is requested in the lab description.
+
 ## Git, GitHub, and Hammer 
 
 For this lab we will be using the git tools on the hammer server, as well as GitHub. You will need to log into the hammer server using a secure shell (SSH). If you are using a Linux or Mac computer, you can run the following command in the terminal
