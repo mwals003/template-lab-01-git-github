@@ -22,7 +22,7 @@ The server that is used for CS100 is a version of CentOS Linux, which is a versi
 $ source /opt/rh/devtoolset-6/enable
 ```
 
-This will allow you to use a newer version of git that is compatible with github. **You will need to run this command every time you login to hammer** or alternatively add it to your .bashrc using emacs or vim. If you are unfamilair with command line editors, you can read these tutorials for [vim](https://blog.interlinked.org/tutorials/vim_tutorial.html) and [emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/) to get started. Knowing at least one command line editor is extremely important since lots of new development is being done on cloud servers which do not have visual interfaces.
+This will allow you to use a newer version of git that is compatible with github. **You will need to run this command every time you login to hammer** or alternatively add it to your .bashrc using emacs or vim. If you are unfamilair with command line editors, you can read these tutorials for [vim](https://www.linux.com/tutorials/vim-101-beginners-guide-vim/) and [emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/) to get started. Knowing at least one command line editor is extremely important since lots of new development is being done on cloud servers which do not have visual interfaces.
 
 > Note: You are not required to develop on the hammer server for this course, and are encouraged to use your own development environment. However, you will need to validate that your code will run correctly on the hammer server as we cannot account for differences in everyone's individual development environments. You are required to host your code on GitHub.
 
