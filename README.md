@@ -8,13 +8,13 @@ In this class we will be using the git version control system as well as the Git
 
 ## Git, GitHub, and Hammer 
 
-For this lab we will be using the git tools on the hammer server, as well as GitHub. You will need to log into the hammer server using a secure shell (SSH). If you are using a Linux or Mac computer, you can run the following command in the terminal
+For this lab we will be using the git tools on the hammer server, as well as GitHub. You will need to log into the hammer server using a secure shell (SSH). If you are using a Linux or Mac computer, you can run the following command in the terminal (replacing `<your_username>` with your CS username):
 
 ```
 ssh <your_username>@hammer.cs.ucr.edu
 ```
 
-Replacing `<your_username>` with your CS username. You may be asked to exchange keys with the server, which you should allow, and then you will be prompted for your password. You should note that when typing your password no characters will be displayed, but you are still typing (this is a security measure).
+You may be asked to exchange keys with the server, which you should allow, and then you will be prompted for your password. You should note that when typing your password no characters will be displayed, but you are still typing (this is a security measure).
 
 If you are using a Windows computer you will first need to install a program called PuTTY, which can be installed from [putty.org](http://www.putty.org/). When you open PuTTY there will be a box for a “Host Name”, where you will input `<your_username>@hammer.cs.ucr.edu` (again replacing `<your_username>` with your CS username). From there you can follow the above steps for exchanging keys and entering your password.
 
