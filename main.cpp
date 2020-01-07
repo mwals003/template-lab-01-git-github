@@ -3,5 +3,5 @@
 int main()
 {
     std::cout << "git is easy?" << std::endl;
-    return 1;
+    return 0;
 }
